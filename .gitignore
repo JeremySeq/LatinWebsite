@@ -1,0 +1,3 @@
+instance/
+backend/__pycache__
+.env
