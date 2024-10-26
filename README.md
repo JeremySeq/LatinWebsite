@@ -11,4 +11,9 @@ You need Python installed.
     1. `git clone https://github.com/sjgallagher2/PyWORDS`
     2. `cd PyWORDS`
     3. `pip install .`
-3. Run `backend/main.py`.
+3. Create `backend/.env` file:
+
+    ```
+    SECRET_KEY="some random secret key"
+    ```
+4. Run `backend/main.py`.
